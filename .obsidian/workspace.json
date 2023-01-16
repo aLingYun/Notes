@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73c1d68e4fd2dcde",
+        "id": "a2a83ba8d40ff8c9",
         "type": "tabs",
         "children": [
           {
-            "id": "bd8c8d67529e259d",
+            "id": "9d8476d946b93ecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,13 +128,21 @@
                 "file": "Linux/i3 配置代理.md"
               }
             }
+          },
+          {
+            "id": "878262e6085c4c95",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +154,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bd8c8d67529e259d",
+  "active": "9d8476d946b93ecd",
   "lastOpenFiles": [
-    "Pasted image 20230116161913.png.md",
     "Linux/i3 配置代理.md",
+    "attachments/Pasted.md",
+    "Linux/attachments/Pasted image 20230116162136.png",
+    "README.md",
+    "Pasted image 20230116161913.png.md",
     "Pasted image 20230116161913.png",
     "未命名.md",
     "2023-01-16.md",
