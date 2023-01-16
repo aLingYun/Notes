@@ -14,12 +14,24 @@
               "type": "markdown",
               "state": {
                 "file": "Linux/i3 配置代理.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9749a236312e5c0e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/app.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 305.5
   },
   "right": {
     "id": "793e20e5cdf65e7f",
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/i3 配置代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/i3 配置代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/i3 配置代理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +162,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "40ce4983231cb5b6",
+  "active": "9749a236312e5c0e",
   "lastOpenFiles": [
-    "attachments/Pasted.md",
+    "Linux/Obsidian 搭配 GitHub 远端同步笔记.md",
     "Linux/i3 配置代理.md",
+    "attachments/Pasted.md",
     "Linux/attachments/Pasted image 20230116162136.png",
     "README.md",
     "Pasted image 20230116161913.png.md",
