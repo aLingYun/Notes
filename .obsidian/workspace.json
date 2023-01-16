@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01f47db1d5a2141a",
+        "id": "7df1d8fa4746c195",
         "type": "tabs",
         "children": [
           {
-            "id": "b0bcf71f2eade63d",
+            "id": "40ce4983231cb5b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,10 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b0bcf71f2eade63d",
+  "active": "40ce4983231cb5b6",
   "lastOpenFiles": [
-    "Linux/i3 配置代理.md",
     "attachments/Pasted.md",
+    "Linux/i3 配置代理.md",
     "Linux/attachments/Pasted image 20230116162136.png",
     "README.md",
     "Pasted image 20230116161913.png.md",
