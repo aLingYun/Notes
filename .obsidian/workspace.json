@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/i3 配置代理.md",
-                "mode": "preview",
+                "file": "Linux/Obsidian 搭配 GitHub 远端同步笔记.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9749a236312e5c0e",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Obsidian 搭配 GitHub 远端同步笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Obsidian 搭配 GitHub 远端同步笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/Obsidian 搭配 GitHub 远端同步笔记.md"
+              }
             }
           },
           {
@@ -162,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9749a236312e5c0e",
+  "active": "40ce4983231cb5b6",
   "lastOpenFiles": [
     "Linux/Obsidian 搭配 GitHub 远端同步笔记.md",
     "Linux/i3 配置代理.md",
