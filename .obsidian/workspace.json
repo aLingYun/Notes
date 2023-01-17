@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb63fa1b00f0b257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "区块链/Rust 单机版区块链.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
+                "file": "区块链/Rust 单机版区块链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
+                "file": "区块链/Rust 单机版区块链.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/Obsidian 搭配 GitHub 远端同步笔记.md"
+                "file": "区块链/Rust 单机版区块链.md"
               }
             }
           },
@@ -154,10 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fa69d20b8af28066",
+  "active": "fb63fa1b00f0b257",
   "lastOpenFiles": [
-    "Linux/i3 配置代理.md",
     "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
+    "Linux/i3 配置代理.md",
     "Others/attachments/Pasted image 20230117095046.png",
     "Others/attachments/Pasted image 20230116195045.png",
     "Others/attachments/Pasted image 20230116195558.png",
