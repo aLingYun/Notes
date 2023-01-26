@@ -39,3 +39,10 @@ nvim .                   // open nvim
 ![](attachments/Pasted%20image%2020230126180313.png)
 
 但是你会发现界面中有很多图标是问号，这需要安装并在终端中使用 Nerd 字体：
+```bash
+yay -S nerd-fonts-complete
+```
+
+安装字体后重启终端即可：
+
+![](attachments/Pasted%20image%2020230126183416.png)
