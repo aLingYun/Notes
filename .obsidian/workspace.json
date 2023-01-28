@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "740b2cc0f17b116d",
+        "id": "27efc096149583c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5f43af9def9fb874",
+            "id": "db9f67c6054ac504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
+                "file": "区块链/Substrate.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb63fa1b00f0b257",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/i3 配置代理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5efc6a0007d47c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Neovim for Rust.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "793e20e5cdf65e7f",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Neovim for Rust.md",
+                "file": "区块链/Substrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Neovim for Rust.md",
+                "file": "区块链/Substrate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Neovim for Rust.md"
+                "file": "区块链/Substrate.md"
               }
             }
           },
@@ -180,10 +154,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e5efc6a0007d47c1",
+  "active": "db9f67c6054ac504",
   "lastOpenFiles": [
-    "Linux/i3 配置代理.md",
     "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
+    "Linux/i3 配置代理.md",
     "区块链/Rust 单机版区块链.md",
     "Others/attachments/Pasted image 20230117095046.png",
     "Others/attachments/Pasted image 20230116195045.png",
