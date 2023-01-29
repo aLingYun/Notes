@@ -61,3 +61,117 @@ sudo apt install libprotobuf-dev protobuf-compiler
 ```
 
 ![](attachments/Pasted%20image%2020230128160039.png)
+
+## 二、添加一个 pallet
+第一节克隆的代码中 `./pallet/template` 文件夹是一个模板，我门可以直接复制一份放在同级目录下（这里命名为exam）。并删除暂时不需要的几个文件：
+```sh
+rm benchmarking.rs mock.rs tests.rs
+```
+
+在 `./pallet/exam/src/lib.rs` 文件中写入如下代码：
+```rust
+#![cfg_attr(not(feature = "std"), no_std)]
+
+// 1. Imports and Dependencies
+pub use pallet::*;
+#[frame_support::pallet]
+pub mod pallet {
+    use frame_support::pallet_prelude::*;
+    use frame_system::pallet_prelude::*;
+
+    // 2. Declaration of the Pallet type
+    // This is a placeholder to implement traits and methods.
+    #[pallet::pallet]
+    #[pallet::generate_store(pub(super) trait Store)]
+    pub struct Pallet<T>(_);
+
+    // 3. Runtime Configuration Trait
+    // All types and constants go here.
+    // Use #[pallet::constant] and #[pallet::extra_constants]
+    // to pass in values to metadata.
+    #[pallet::config]
+    pub trait Config: frame_system::Config { 
+                type RuntimeEvent: From<Event<Self>> 
+                        + IsType<<Self as frame_system::Config>::RuntimeEvent>;
+        }
+
+    // 4. Runtime Storage
+    // Use to declare storage items.
+        #[pallet::storage]
+    pub type Proofs<T: Config> =
+        StorageMap<_, Blake2_128Concat, u32, u128>;
+
+    // 5. Runtime Events
+    // Can stringify event types to metadata.
+    #[pallet::event]
+    #[pallet::generate_deposit(pub(super) fn deposit_event)]
+    pub enum Event<T: Config> {
+                ClaimCreated(u32, u128),
+        }
+
+    // 7. Extrinsics
+    // Functions that are callable from outside the runtime.
+        #[pallet::call]
+    impl<T:Config> Pallet<T> { 
+        #[pallet::weight(0)]
+        pub fn create_claim(origin: OriginFor<T>, id: u32, claim: u128) -> DispatchResultWithPostInfo {
+            ensure_signed(origin)?;
+
+            Proofs::<T>::insert(
+                &id,
+                &claim,
+            );
+
+            Self::deposit_event(Event::ClaimCreated(id, claim));
+
+            Ok(().into())
+        }
+    }
+}
+```
+
+在 `./pallet/exam/Cargo.toml` 文件中修改如下：
+```toml
+[package]
+name = "pallet-exam"
+# ...... 省略
+# 其他的可以不用修改
+```
+
+在 `./runtime/Cargo.toml` 文件中添加如下代码：
+```toml
+#...... 省略
+
+# Local Dependencies
+pallet-template = { version = "4.0.0-dev", default-features = false, path = "../pallets/template" }
+pallet-exam = { version = "4.0.0-dev", default-features = false, path = "../pallets/exam" }     # 新加此行
+
+#....... 省略
+
+[features]
+default = ["std"]
+std = [
+	#...... 省略
+	"pallet-template/std",
+	#...... 省略
+	"pallet-exam/std",  #新加此行
+]
+```
+
+在 `./` 目录下执行 `cargo build --release` 
+```sh
+~/substrate-node-template# pwd
+/root/substrate-node-template
+~/substrate-node-template# cargo build --release
+```
+
+运行：
+```sh
+./target/release/node-template --dev
+```
+
+在浏览器中登录 `https://polkadot.js.org/apps` ，可见有了我们添加的 `examPallet` 以及 `createClaim` 。
+
+![](attachments/Pasted%20image%2020230129150224.png)
+
+如此，前端页面（这个网页）就和后端交互上了。

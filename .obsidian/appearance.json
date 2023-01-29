@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "textFontFamily": "BitstreamVeraSansMono Nerd Font Mono",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font",
+  "baseFontSize": 17
 }
