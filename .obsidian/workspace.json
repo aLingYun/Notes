@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "区块链/Substrate.md",
+                "file": "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6399073fe4fbb7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Others/rdesktop连接windows远程桌面.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55cdbcbcf0edf889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Arch安装SecoClient.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#将报错行的",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "区块链/Substrate.md",
+                "file": "Linux/Arch安装SecoClient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "区块链/Substrate.md",
+                "file": "Linux/Arch安装SecoClient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "区块链/Substrate.md"
+                "file": "Linux/Arch安装SecoClient.md"
               }
             }
           },
@@ -154,17 +180,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "db9f67c6054ac504",
+  "active": "55cdbcbcf0edf889",
   "lastOpenFiles": [
+    "Others/rdesktop连接windows远程桌面.md",
     "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
+    "区块链/Substrate.md",
     "Linux/i3 配置代理.md",
     "区块链/Rust 单机版区块链.md",
     "Others/attachments/Pasted image 20230117095046.png",
     "Others/attachments/Pasted image 20230116195045.png",
     "Others/attachments/Pasted image 20230116195558.png",
     "Others/attachments/Pasted image 20230117095750.png",
-    "attachments/Pasted.md",
-    "Linux/attachments/Pasted image 20230116162136.png",
-    "README.md"
+    "attachments/Pasted.md"
   ]
 }
