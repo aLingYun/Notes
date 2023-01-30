@@ -29,9 +29,22 @@ fi
 
 因为这个安装包是给 ubuntu 使用的，Arch linux 没有 /etc/init.d 这个文件夹，安装程序无法将 `SecoClientPromoteService.sh` 脚本存放进去。所以我们需要先手动启动这个脚本：
 ```sh
-sudo /usr/local/SecoClient/promote/SecoClientPromoteService.sh
+sudo /usr/local/SecoClient/promote/SecoClientPromoteService.sh start
 ```
 再运行 SecoClient 程序。
 ```
-/usr/local/SecoClient/SecoClient
+/usr/local/SecoClient/SecoClient &
+```
+如果报错：
+```sh
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: linuxfb, minimal, offscreen, xcb.
+
+Aborted (core dumped)
+```
+那么到 `/usr/local/SecoClient` 目录下修改 `install.sh` 中的 `arch` 为你的架构，并重新安装：
+```sh
+sudo ./install.sh
 ```
