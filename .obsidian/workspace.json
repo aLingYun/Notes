@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bf3fd4e92056ae40",
+        "id": "965ffeeb01d72371",
         "type": "tabs",
         "children": [
           {
-            "id": "a5356296f5760e80",
+            "id": "065df0a95467edaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "区块链/Rust 单机版区块链.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d523e8d0d63b3a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/ftplib 应用.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/ftplib 应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/ftplib 应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/ftplib 应用.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,17 +146,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d523e8d0d63b3a4a",
+  "active": "065df0a95467edaa",
   "lastOpenFiles": [
+    "README.md",
+    "Python/ftplib 应用.md",
     "区块链/Rust 单机版区块链.md",
     "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
     "Others/rdesktop连接windows远程桌面.md",
-    "README.md",
     "区块链/Substrate.md",
     "Linux/Neovim for Rust.md",
     "Linux/Arch安装SecoClient.md",
     "Linux/i3 配置代理.md",
-    "Others/attachments/Pasted image 20230117095046.png",
-    "Others/attachments/Pasted image 20230116195045.png"
+    "Others/attachments/Pasted image 20230117095046.png"
   ]
 }
