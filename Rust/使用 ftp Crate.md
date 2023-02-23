@@ -62,3 +62,5 @@ note: to see what the problems were, use the option `--future-incompat-report`, 
 
 D:\Codes\rust\study>
 ```
+
+**追加 Note:** ftp crate 不支持 openssl 1.1.0 以上的版本，且依赖 winapi crate 版本较低，将被丢弃。所以建议使用 suppaftp crate 而不是 ftp crate。
