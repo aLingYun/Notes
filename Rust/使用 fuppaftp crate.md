@@ -40,4 +40,22 @@ pub enum Mode {
 ftp.set_mode(suppaftp::types::Mode::ExtendedPassive);
 ```
 其他信息可以在 docs.rs 上查看。
+
+以上代码执行结果如下：
+```powershell
+PS D:\Codes\rust\suppaftp> cargo run
+    Finished dev [unoptimized + debuginfo] target(s) in 0.06s
+     Running `target\debug\suppaftp.exe`
+/wlb
+[
+    "/wlb/aaaa",
+    "/wlb/bbbbbbbb",
+    "/wlb/cccccccccc",
+    "/wlb/2023-02-22-18-16-34_2.7z",
+    "/wlb/2023-02-23-10-22-45_2.7z",
+]
+Hello, world!
+PS D:\Codes\rust\suppaftp>
+```
+
 [FtpStream in suppaftp - Rust (docs.rs)](https://docs.rs/suppaftp/4.7.0/suppaftp/struct.FtpStream.html)
