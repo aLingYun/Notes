@@ -11,11 +11,28 @@
             "id": "065df0a95467edaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Neovim for Rust.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed39aaed48cf83d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/使用 ftp Crate.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rust/使用 ftp Crate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rust/使用 ftp Crate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rust/使用 ftp Crate.md"
+              }
             }
           },
           {
@@ -146,15 +167,15 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "065df0a95467edaa",
+  "active": "ed39aaed48cf83d0",
   "lastOpenFiles": [
-    "README.md",
+    "Linux/Neovim for Rust.md",
     "Python/ftplib 应用.md",
+    "README.md",
     "区块链/Rust 单机版区块链.md",
     "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
     "Others/rdesktop连接windows远程桌面.md",
     "区块链/Substrate.md",
-    "Linux/Neovim for Rust.md",
     "Linux/Arch安装SecoClient.md",
     "Linux/i3 配置代理.md",
     "Others/attachments/Pasted image 20230117095046.png"
