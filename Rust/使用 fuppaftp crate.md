@@ -39,8 +39,6 @@ pub enum Mode {
 ```rust
 ftp.set_mode(suppaftp::types::Mode::ExtendedPassive);
 ```
-其他信息可以在 docs.rs 上查看。
-
 以上代码执行结果如下：
 ```powershell
 PS D:\Codes\rust\suppaftp> cargo run
@@ -57,5 +55,4 @@ PS D:\Codes\rust\suppaftp> cargo run
 Hello, world!
 PS D:\Codes\rust\suppaftp>
 ```
-
-[FtpStream in suppaftp - Rust (docs.rs)](https://docs.rs/suppaftp/4.7.0/suppaftp/struct.FtpStream.html)
+其他信息可以在 docs.rs 上查看 [FtpStream in suppaftp - Rust (docs.rs)](https://docs.rs/suppaftp/4.7.0/suppaftp/struct.FtpStream.html) 
