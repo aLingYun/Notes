@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/使用 fuppaftp crate.md",
+                "file": "Linux/Neovim for Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 200
   },
   "right": {
     "id": "793e20e5cdf65e7f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/使用 fuppaftp crate.md",
+                "file": "Linux/Neovim for Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/使用 fuppaftp crate.md",
+                "file": "Linux/Neovim for Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/使用 fuppaftp crate.md"
+                "file": "Linux/Neovim for Rust.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +156,11 @@
   },
   "active": "065df0a95467edaa",
   "lastOpenFiles": [
-    "Linux/Neovim for Rust.md",
-    "Rust/使用 ftp Crate.md",
-    "Rust/使用 fuppaftp crate.md",
     "Python/ftplib 应用.md",
     "README.md",
+    "Rust/使用 fuppaftp crate.md",
+    "Linux/Neovim for Rust.md",
+    "Rust/使用 ftp Crate.md",
     "区块链/Rust 单机版区块链.md",
     "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
     "Others/rdesktop连接windows远程桌面.md",

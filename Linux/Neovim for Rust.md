@@ -1,6 +1,6 @@
 ### 1. 首先配置好终端代理
 ```bash
-yay -S proxychains  //安装代理工具
+yay -S proxychains-ng  //安装代理工具
 
 vim /etc/proxychains.conf  //在文件最后的[ProxyList]一节中增加代理设置，例如
                            //socks5 127.0.0.1 1080
@@ -12,22 +12,23 @@ proxychains git clone git@github.com:aLingYun/Notes.git
 ```
 
 ### 2. 配置 neovim
-1) 安装 Rust
+1) 安装 Rust 和 rust-analyzer
 ```bash
-proxychains curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+rustup component add rust-analyzer
 ```
 2) Clone 配置文件
 ```bash
-mv ~/.config/nvim ~/.config/nvimbackup
+mv ~/.config/nvim ~/.config/nvimbackup         //如果原来有，则备份
 proxychains git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 ```
 3) 启动 nvim 的包管理器去安装插件
 ```bash
-nvim +PackerSync
+proxychains nvim +PackerSync
 ```
 4) 安装 LSP 和 tree-sitter
 ```bash
-nvim .                   // open nvim
+proxychains nvim .       // open nvim
 
 :LspInstall rust         // 安装 LSP
 
