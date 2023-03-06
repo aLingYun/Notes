@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Neovim for Rust.md",
+                "file": "Others/rdesktop连接windows远程桌面.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83c79f4d622c7cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Others/SDL2 钢琴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e14b612847c6ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Auto-editor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Neovim for Rust.md",
+                "file": "Python/Auto-editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Neovim for Rust.md",
+                "file": "Python/Auto-editor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Neovim for Rust.md"
+                "file": "Python/Auto-editor.md"
               }
             }
           },
@@ -154,18 +179,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "065df0a95467edaa",
+  "active": "7e14b612847c6ba2",
   "lastOpenFiles": [
+    "Others/SDL2 钢琴.md",
+    "Python/Auto-editor.md",
+    "Others/rdesktop连接windows远程桌面.md",
+    "Linux/Arch安装SecoClient.md",
+    "Linux/i3 配置代理.md",
+    "Linux/Neovim for Rust.md",
     "Python/ftplib 应用.md",
     "README.md",
     "Rust/使用 fuppaftp crate.md",
-    "Linux/Neovim for Rust.md",
     "Rust/使用 ftp Crate.md",
     "区块链/Rust 单机版区块链.md",
     "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
-    "Others/rdesktop连接windows远程桌面.md",
-    "区块链/Substrate.md",
-    "Linux/Arch安装SecoClient.md",
-    "Linux/i3 配置代理.md"
+    "区块链/Substrate.md"
   ]
 }
