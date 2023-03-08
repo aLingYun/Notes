@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "965ffeeb01d72371",
+        "id": "69ac8c359131f181",
         "type": "tabs",
         "children": [
           {
-            "id": "065df0a95467edaa",
+            "id": "c61217f8d6b2c4cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Others/rdesktop连接windows远程桌面.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83c79f4d622c7cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Others/SDL2 钢琴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e14b612847c6ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Auto-editor.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Auto-editor.md",
+                "file": "Others/SDL2 流星雨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Auto-editor.md",
+                "file": "Others/SDL2 流星雨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Auto-editor.md"
+                "file": "Others/SDL2 流星雨.md"
               }
             }
           },
@@ -179,11 +150,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7e14b612847c6ba2",
+  "active": "878262e6085c4c95",
   "lastOpenFiles": [
+    "Others/attachments/Pasted image 20230308112913.png",
+    "Others/rdesktop连接windows远程桌面.md",
+    "Others/SDL2 流星雨.md",
     "Others/SDL2 钢琴.md",
     "Python/Auto-editor.md",
-    "Others/rdesktop连接windows远程桌面.md",
+    "Python/attachments/Pasted image 20230307194715.png",
     "Linux/Arch安装SecoClient.md",
     "Linux/i3 配置代理.md",
     "Linux/Neovim for Rust.md",
