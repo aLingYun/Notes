@@ -4,34 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "69ac8c359131f181",
+        "id": "c71733bf74c59b46",
         "type": "tabs",
         "children": [
           {
-            "id": "c61217f8d6b2c4cd",
+            "id": "8aadda8352bc2590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/SDL2 流星雨.md",
+                "file": "Python/ftplib 应用.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f068ecfee5c4c1f7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Linux/Arch Linux 安装指定版本软件.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/ftplib 应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/ftplib 应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/ftplib 应用.md"
+              }
             }
           },
           {
@@ -170,24 +162,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f068ecfee5c4c1f7",
+  "active": "8aadda8352bc2590",
   "lastOpenFiles": [
+    "Linux/Neovim for Rust.md",
+    "Linux/i3 配置代理.md",
     "Linux/Arch Linux 安装指定版本软件.md",
-    "Others/SDL2 流星雨.md",
     "Rust/使用 fuppaftp crate.md",
+    "Rust/使用 ftp Crate.md",
+    "Python/ftplib 应用.md",
+    "Python/Auto-editor.md",
+    "区块链/Rust 单机版区块链.md",
+    "区块链/Substrate.md",
+    "Linux/Arch安装SecoClient.md",
+    "README.md",
+    "Others/SDL2 流星雨.md",
     "Others/attachments/Pasted image 20230308112913.png",
     "Others/rdesktop连接windows远程桌面.md",
     "Others/SDL2 钢琴.md",
-    "Python/Auto-editor.md",
     "Python/attachments/Pasted image 20230307194715.png",
-    "Linux/Arch安装SecoClient.md",
-    "Linux/i3 配置代理.md",
-    "Linux/Neovim for Rust.md",
-    "Python/ftplib 应用.md",
-    "README.md",
-    "Rust/使用 ftp Crate.md",
-    "区块链/Rust 单机版区块链.md",
-    "Others/Obsidian 搭配 GitHub 远端同步笔记.md",
-    "区块链/Substrate.md"
+    "Others/Obsidian 搭配 GitHub 远端同步笔记.md"
   ]
 }
