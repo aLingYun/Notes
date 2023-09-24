@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ftplib 应用.md",
-                "mode": "preview",
+                "file": "RISC-V/01、基础指令.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/ftplib 应用.md",
+                "file": "RISC-V/01、基础指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/ftplib 应用.md",
+                "file": "RISC-V/01、基础指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/ftplib 应用.md"
+                "file": "RISC-V/01、基础指令.md"
               }
             }
           },
@@ -164,22 +164,35 @@
   },
   "active": "8aadda8352bc2590",
   "lastOpenFiles": [
+    "RISC-V/attachments/Pasted image 20230924230419.png",
+    "RISC-V/attachments/Pasted image 20230924230252.png",
+    "RISC-V/attachments/Pasted image 20230924225953.png",
+    "RISC-V/attachments/Pasted image 20230924225825.png",
+    "RISC-V/attachments/Pasted image 20230924225536.png",
+    "RISC-V/attachments/Pasted image 20230924225459.png",
+    "RISC-V/attachments/Pasted image 20230924225116.png",
+    "RISC-V/attachments/Pasted image 20230924225008.png",
+    "RISC-V/attachments/Pasted image 20230924224638.png",
+    "RISC-V/attachments/Pasted image 20230924224441.png",
+    "RISC-V/attachments/Pasted image 20230924224126.png",
+    "RISC-V/attachments",
+    "RISC-V/02、函数调用规范.md",
+    "RISC-V/01、基础指令.md",
+    "Python/ftplib 应用.md",
+    "RISC-V",
     "Linux/Neovim for Rust.md",
     "Linux/i3 配置代理.md",
     "Linux/Arch Linux 安装指定版本软件.md",
     "Rust/使用 fuppaftp crate.md",
     "Rust/使用 ftp Crate.md",
-    "Python/ftplib 应用.md",
     "Python/Auto-editor.md",
     "区块链/Rust 单机版区块链.md",
     "区块链/Substrate.md",
     "Linux/Arch安装SecoClient.md",
     "README.md",
     "Others/SDL2 流星雨.md",
-    "Others/attachments/Pasted image 20230308112913.png",
     "Others/rdesktop连接windows远程桌面.md",
     "Others/SDL2 钢琴.md",
-    "Python/attachments/Pasted image 20230307194715.png",
     "Others/Obsidian 搭配 GitHub 远端同步笔记.md"
   ]
 }
