@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V/02、函数调用规范.md",
+                "file": "Linux/Arch Linux 使用 Zero Trust.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288.5
   },
   "right": {
     "id": "793e20e5cdf65e7f",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RISC-V/02、函数调用规范.md",
+                "file": "Linux/Arch Linux 使用 Zero Trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RISC-V/02、函数调用规范.md",
+                "file": "Linux/Arch Linux 使用 Zero Trust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V/02、函数调用规范.md"
+                "file": "Linux/Arch Linux 使用 Zero Trust.md"
               }
             }
           },
@@ -164,9 +164,11 @@
   },
   "active": "8aadda8352bc2590",
   "lastOpenFiles": [
+    "Linux/Arch Linux 安装指定版本软件.md",
+    "Linux/Arch Linux 使用 Zero Trust.md",
+    "RISC-V/02、函数调用规范.md",
     "RISC-V/attachments/Pasted image 20230926231517.png",
     "RISC-V/01、基础指令.md",
-    "RISC-V/02、函数调用规范.md",
     "RISC-V/attachments/Pasted image 20230924230419.png",
     "RISC-V/attachments/Pasted image 20230924230252.png",
     "RISC-V/attachments/Pasted image 20230924225953.png",
@@ -176,13 +178,11 @@
     "RISC-V/attachments/Pasted image 20230924225116.png",
     "RISC-V/attachments/Pasted image 20230924225008.png",
     "RISC-V/attachments/Pasted image 20230924224638.png",
-    "RISC-V/attachments/Pasted image 20230924224441.png",
     "RISC-V/attachments",
     "Python/ftplib 应用.md",
     "RISC-V",
     "Linux/Neovim for Rust.md",
     "Linux/i3 配置代理.md",
-    "Linux/Arch Linux 安装指定版本软件.md",
     "Rust/使用 fuppaftp crate.md",
     "Rust/使用 ftp Crate.md",
     "Python/Auto-editor.md",
