@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c71733bf74c59b46",
+        "id": "8f7dacddda40703f",
         "type": "tabs",
         "children": [
           {
-            "id": "8aadda8352bc2590",
+            "id": "0cbaa287c52fb56a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch Linux 使用 Zero Trust.md",
+                "file": "Algorithm/插入排序与归并排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch Linux 使用 Zero Trust.md",
+                "file": "Algorithm/插入排序与归并排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch Linux 使用 Zero Trust.md",
+                "file": "Algorithm/插入排序与归并排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch Linux 使用 Zero Trust.md"
+                "file": "Algorithm/插入排序与归并排序.md"
               }
             }
           },
@@ -154,18 +154,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8aadda8352bc2590",
+  "active": "0cbaa287c52fb56a",
   "lastOpenFiles": [
-    "Linux/Arch Linux 安装指定版本软件.md",
+    "Algorithm/attachments/Pasted image 20240630184711.png",
+    "Algorithm/attachments/Pasted image 20240630184525.png",
+    "Algorithm/attachments/Pasted image 20240630184430.png",
+    "Algorithm/attachments/Pasted image 20240630183542.png",
+    "Algorithm/attachments/Pasted image 20240630182641.png",
+    "Algorithm/attachments",
+    "Algorithm/插入排序与归并排序.md",
+    "Algorithm",
     "Linux/Arch Linux 使用 Zero Trust.md",
+    "Linux/Arch Linux 安装指定版本软件.md",
     "RISC-V/02、函数调用规范.md",
     "RISC-V/attachments/Pasted image 20230926231517.png",
     "RISC-V/01、基础指令.md",
@@ -174,10 +182,6 @@
     "RISC-V/attachments/Pasted image 20230924225953.png",
     "RISC-V/attachments/Pasted image 20230924225825.png",
     "RISC-V/attachments/Pasted image 20230924225536.png",
-    "RISC-V/attachments/Pasted image 20230924225459.png",
-    "RISC-V/attachments/Pasted image 20230924225116.png",
-    "RISC-V/attachments/Pasted image 20230924225008.png",
-    "RISC-V/attachments/Pasted image 20230924224638.png",
     "RISC-V/attachments",
     "Python/ftplib 应用.md",
     "RISC-V",
