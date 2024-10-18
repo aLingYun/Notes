@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f7dacddda40703f",
+        "id": "b5d7b5979c6da118",
         "type": "tabs",
         "children": [
           {
-            "id": "0cbaa287c52fb56a",
+            "id": "379166da823a5108",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/插入排序与归并排序.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/插入排序与归并排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/插入排序与归并排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm/插入排序与归并排序.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,15 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cbaa287c52fb56a",
+  "active": "379166da823a5108",
   "lastOpenFiles": [
+    "Others/ffmpeg.md",
+    "Algorithm/插入排序与归并排序.md",
     "Algorithm/attachments/Pasted image 20240630184711.png",
     "Algorithm/attachments/Pasted image 20240630184525.png",
     "Algorithm/attachments/Pasted image 20240630184430.png",
     "Algorithm/attachments/Pasted image 20240630183542.png",
     "Algorithm/attachments/Pasted image 20240630182641.png",
     "Algorithm/attachments",
-    "Algorithm/插入排序与归并排序.md",
     "Algorithm",
     "Linux/Arch Linux 使用 Zero Trust.md",
     "Linux/Arch Linux 安装指定版本软件.md",
@@ -181,7 +174,6 @@
     "RISC-V/attachments/Pasted image 20230924230252.png",
     "RISC-V/attachments/Pasted image 20230924225953.png",
     "RISC-V/attachments/Pasted image 20230924225825.png",
-    "RISC-V/attachments/Pasted image 20230924225536.png",
     "RISC-V/attachments",
     "Python/ftplib 应用.md",
     "RISC-V",
