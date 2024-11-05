@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b5d7b5979c6da118",
+        "id": "322c54bee317d433",
         "type": "tabs",
         "children": [
           {
-            "id": "379166da823a5108",
+            "id": "ed9fc966f40ebfce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/004. 算法验证-对数器.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm/004. 算法验证-对数器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm/004. 算法验证-对数器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm/004. 算法验证-对数器.md"
+              }
             }
           },
           {
@@ -154,10 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "379166da823a5108",
+  "active": "ed9fc966f40ebfce",
   "lastOpenFiles": [
-    "Others/ffmpeg.md",
     "Algorithm/插入排序与归并排序.md",
+    "Algorithm/004. 算法验证-对数器.md",
+    "Algorithm/002. Rust实现“社会”基尼系数测试及计算.md",
+    "README.md",
+    "Others/ffmpeg.md",
     "Algorithm/attachments/Pasted image 20240630184711.png",
     "Algorithm/attachments/Pasted image 20240630184525.png",
     "Algorithm/attachments/Pasted image 20240630184430.png",
@@ -185,7 +196,6 @@
     "区块链/Rust 单机版区块链.md",
     "区块链/Substrate.md",
     "Linux/Arch安装SecoClient.md",
-    "README.md",
     "Others/SDL2 流星雨.md",
     "Others/rdesktop连接windows远程桌面.md",
     "Others/SDL2 钢琴.md",
