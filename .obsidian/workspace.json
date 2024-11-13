@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/005. 算法验证-对数器.md",
+                "file": "Algorithm/014. Queue 和 Stack 相互实现.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/005. 算法验证-对数器.md",
+                "file": "Algorithm/014. Queue 和 Stack 相互实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/005. 算法验证-对数器.md",
+                "file": "Algorithm/014. Queue 和 Stack 相互实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/005. 算法验证-对数器.md"
+                "file": "Algorithm/014. Queue 和 Stack 相互实现.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "ed9fc966f40ebfce",
   "lastOpenFiles": [
-    "Algorithm/002. Rust实现“社会”基尼系数测试及计算.md",
     "Algorithm/005. 算法验证-对数器.md",
+    "Algorithm/014. Queue 和 Stack 相互实现.md",
+    "Algorithm/002. Rust实现“社会”基尼系数测试及计算.md",
     "Algorithm/插入排序与归并排序.md",
     "README.md",
     "Others/ffmpeg.md",
