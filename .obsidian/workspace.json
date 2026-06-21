@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ab5eeda67038fe9",
+        "id": "4254045cbdacf98d",
         "type": "tabs",
         "children": [
           {
-            "id": "3a5f9138ff4ce504",
+            "id": "0e2831fc5e3e4bdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Rust错误处理-让错误成为你的盟友.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Rust错误处理-让错误成为你的盟友"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 303.5
   },
   "right": {
     "id": "793e20e5cdf65e7f",
@@ -163,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -172,9 +177,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "878262e6085c4c95",
+  "active": "0e2831fc5e3e4bdc",
   "lastOpenFiles": [
     "Rust/Rust错误处理-让错误成为你的盟友.md",
+    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.488a68658297",
     "AI/Android 手机安装 Hermes Agent.md",
     "AI/attachments/img_v3_0211g_9d5f92f3-9b89-4c19-868b-fb64a4b1812g.jpg",
     "AI/attachments/img_v3_0211g_80d04199-cf98-43f9-b687-91a13c477a9g.jpg",
@@ -206,7 +212,6 @@
     "Algorithm/attachments/Pasted image 20240630184525.png",
     "Algorithm/attachments/Pasted image 20240630184430.png",
     "Algorithm/attachments",
-    "Algorithm",
     "Linux/Arch Linux 使用 Zero Trust.md",
     "Linux/Arch Linux 安装指定版本软件.md",
     "RISC-V/02、函数调用规范.md",

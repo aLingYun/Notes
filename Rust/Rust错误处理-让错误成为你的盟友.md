@@ -263,7 +263,7 @@ use thiserror::Error;
 use serde::Deserialize;
 
 #[derive(Error, Debug)]
-enum ConfigError {
+pub enum ConfigError {
     #[error("文件不存在：{path}")]
     NotFound { path: String },
     #[error("JSON 格式错误：{0}")]
@@ -276,12 +276,20 @@ pub struct Config {
     pub port: u16,
 }
 
-pub fn load_config(path: &str) -> Result<Config, ConfigError> {
-    let raw = fs::read_to_string(path)
-        .map_err(|_| ConfigError::NotFound { path: path.to_string() })?;
+fn load_config(path: &str) -> Result<Config, ConfigError> {
+    let raw = fs::read_to_string(path).map_err(|_| ConfigError::NotFound {
+        path: path.to_string(),
+    })?;
 
     let config: Config = serde_json::from_str(&raw)?;
     Ok(config)
+}
+
+fn main() {
+    match load_config("config.json") {
+        Ok(content) => println!("配置内容：{:#?}", content),
+        Err(e) => eprintln!("读取失败：{}", e),
+    }
 }
 ```
 
