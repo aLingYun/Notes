@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a5206a9bd745bb6",
+        "id": "f63617d5fb7000af",
         "type": "tabs",
         "children": [
           {
-            "id": "51fefda480ec5c3e",
+            "id": "f8fa75e5f7d5a3e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Linux 源码阅读环境配置一条龙.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,15 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "86954ffbcc27702a",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -70,14 +65,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 373.5
   },
   "right": {
     "id": "793e20e5cdf65e7f",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux 源码阅读环境配置一条龙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -110,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux 源码阅读环境配置一条龙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -123,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -133,8 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux 源码阅读环境配置一条龙.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -142,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -154,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -162,47 +172,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51fefda480ec5c3e",
+  "active": "878262e6085c4c95",
   "lastOpenFiles": [
+    "AI/attachments/img_v3_0211g_9d5f92f3-9b89-4c19-868b-fb64a4b1812g.jpg",
+    "AI/attachments/img_v3_0211g_80d04199-cf98-43f9-b687-91a13c477a9g.jpg",
+    "AI/attachments/img_v3_0211g_71f93433-258c-4240-8da3-4581ffa62e0g.jpg",
+    "AI/attachments",
+    "AI/Android 手机安装 Hermes Agent.md",
+    "AI",
+    "Rust/Rust错误处理-让错误成为你的盟友.md",
+    "Rust/Rust错误处理-让错误成为你的盟友_bak.md",
+    "README.md",
+    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.68d2ba03c2e1",
+    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.5f93a3b50bcb",
+    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.16b36158c2e3",
+    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.5b47aed03050",
+    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.804a8da494f4",
+    "Rust/Rust错误处理-让错误成为你的盟友.md.bak",
+    "Rust/未命名.md",
+    "小学班级合唱对低年级学生合作意识与自信心的培养研究.md",
+    "Linux/Linux 源码阅读环境配置一条龙.md",
     "Linux/attachments/Pasted image 20260101231325.png",
     "Linux/attachments/Pasted image 20260101230659.png",
     "Linux/attachments/Pasted image 20260101230411.png",
-    "Linux/Linux 源码阅读环境配置一条龙.md",
     "Algorithm/015. 最小栈.md",
     "Algorithm/attachments/Pasted image 20241125230051.png",
     "Algorithm/014. Queue 和 Stack 相互实现.md",
     "Algorithm/005. 算法验证-对数器.md",
     "Algorithm/002. Rust实现“社会”基尼系数测试及计算.md",
     "Algorithm/插入排序与归并排序.md",
-    "README.md",
     "Others/ffmpeg.md",
     "Algorithm/attachments/Pasted image 20240630184711.png",
     "Algorithm/attachments/Pasted image 20240630184525.png",
     "Algorithm/attachments/Pasted image 20240630184430.png",
     "Algorithm/attachments/Pasted image 20240630183542.png",
-    "Algorithm/attachments/Pasted image 20240630182641.png",
     "Algorithm/attachments",
     "Algorithm",
     "Linux/Arch Linux 使用 Zero Trust.md",
     "Linux/Arch Linux 安装指定版本软件.md",
     "RISC-V/02、函数调用规范.md",
-    "RISC-V/attachments/Pasted image 20230926231517.png",
     "RISC-V/01、基础指令.md",
-    "RISC-V/attachments/Pasted image 20230924230419.png",
-    "RISC-V/attachments",
     "Python/ftplib 应用.md",
-    "RISC-V",
     "Linux/Neovim for Rust.md",
     "Linux/i3 配置代理.md",
     "Rust/使用 fuppaftp crate.md",
     "Rust/使用 ftp Crate.md",
     "Python/Auto-editor.md",
     "区块链/Rust 单机版区块链.md",
-    "区块链/Substrate.md",
-    "Linux/Arch安装SecoClient.md",
-    "Others/SDL2 流星雨.md",
-    "Others/rdesktop连接windows远程桌面.md",
-    "Others/SDL2 钢琴.md",
-    "Others/Obsidian 搭配 GitHub 远端同步笔记.md"
+    "区块链/Substrate.md"
   ]
 }
