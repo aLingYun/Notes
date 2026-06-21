@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f63617d5fb7000af",
+        "id": "5ab5eeda67038fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "f8fa75e5f7d5a3e7",
+            "id": "3a5f9138ff4ce504",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Rust/Rust错误处理-让错误成为你的盟友.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Rust错误处理-让错误成为你的盟友)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -175,14 +172,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8fa75e5f7d5a3e7",
+  "active": "878262e6085c4c95",
   "lastOpenFiles": [
     "Rust/Rust错误处理-让错误成为你的盟友.md",
+    "AI/Android 手机安装 Hermes Agent.md",
     "AI/attachments/img_v3_0211g_9d5f92f3-9b89-4c19-868b-fb64a4b1812g.jpg",
     "AI/attachments/img_v3_0211g_80d04199-cf98-43f9-b687-91a13c477a9g.jpg",
     "AI/attachments/img_v3_0211g_71f93433-258c-4240-8da3-4581ffa62e0g.jpg",
     "AI/attachments",
-    "AI/Android 手机安装 Hermes Agent.md",
     "AI",
     "Rust/Rust错误处理-让错误成为你的盟友_bak.md",
     "README.md",
