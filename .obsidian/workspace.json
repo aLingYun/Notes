@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Rust错误处理-让错误成为你的盟友.md",
+                "file": "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust错误处理-让错误成为你的盟友"
+              "title": "anyhow-vs-thiserror-应用与库的错误处理选择"
             }
           }
         ]
@@ -177,25 +177,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "878262e6085c4c95",
+  "active": "0e2831fc5e3e4bdc",
   "lastOpenFiles": [
-    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.b71bda38ac81",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.11715915c408",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.a9ee36e24419",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.9017683aed57",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.b2dd81980295",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.5b7d768900b9",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.66d32f72bc49",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.61a88a2af856",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.4d61f236aad1",
     "Rust/Rust错误处理-让错误成为你的盟友.md",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.7765.0a3d37267213",
+    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.b71bda38ac81",
     "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.488a68658297",
     "AI/Android 手机安装 Hermes Agent.md",
     "AI/attachments/img_v3_0211g_9d5f92f3-9b89-4c19-868b-fb64a4b1812g.jpg",
     "AI/attachments/img_v3_0211g_80d04199-cf98-43f9-b687-91a13c477a9g.jpg",
     "AI/attachments/img_v3_0211g_71f93433-258c-4240-8da3-4581ffa62e0g.jpg",
-    "AI/attachments",
-    "AI",
     "Rust/Rust错误处理-让错误成为你的盟友_bak.md",
     "README.md",
-    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.68d2ba03c2e1",
-    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.5f93a3b50bcb",
-    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.16b36158c2e3",
-    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.5b47aed03050",
-    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.804a8da494f4",
-    "Rust/Rust错误处理-让错误成为你的盟友.md.bak",
     "Rust/未命名.md",
     "小学班级合唱对低年级学生合作意识与自信心的培养研究.md",
     "Linux/Linux 源码阅读环境配置一条龙.md",
@@ -212,7 +214,6 @@
     "Algorithm/attachments/Pasted image 20240630184711.png",
     "Algorithm/attachments/Pasted image 20240630184525.png",
     "Algorithm/attachments/Pasted image 20240630184430.png",
-    "Algorithm/attachments",
     "Linux/Arch Linux 使用 Zero Trust.md",
     "Linux/Arch Linux 安装指定版本软件.md",
     "RISC-V/02、函数调用规范.md",
@@ -223,7 +224,6 @@
     "Rust/使用 fuppaftp crate.md",
     "Rust/使用 ftp Crate.md",
     "Python/Auto-editor.md",
-    "区块链/Rust 单机版区块链.md",
-    "区块链/Substrate.md"
+    "区块链/Rust 单机版区块链.md"
   ]
 }
