@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4254045cbdacf98d",
+        "id": "3fda7e0c12bc6c35",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2831fc5e3e4bdc",
+            "id": "d6b051ac1ab5c8aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "anyhow-vs-thiserror-应用与库的错误处理选择"
+              "title": "新标签页"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -177,8 +173,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e2831fc5e3e4bdc",
+  "active": "d6b051ac1ab5c8aa",
   "lastOpenFiles": [
+    "Rust/tracing-让Rust程序开口说话.md",
+    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md",
+    "Rust/Rust错误处理-让错误成为你的盟友.md",
     "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.11715915c408",
     "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.a9ee36e24419",
     "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.9017683aed57",
@@ -187,11 +186,8 @@
     "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.66d32f72bc49",
     "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.61a88a2af856",
     "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.11783.4d61f236aad1",
-    "Rust/Rust错误处理-让错误成为你的盟友.md",
-    "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md",
     "Rust/anyhow-vs-thiserror-应用与库的错误处理选择.md.tmp.7765.0a3d37267213",
     "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.b71bda38ac81",
-    "Rust/Rust错误处理-让错误成为你的盟友.md.tmp.1576.488a68658297",
     "AI/Android 手机安装 Hermes Agent.md",
     "AI/attachments/img_v3_0211g_9d5f92f3-9b89-4c19-868b-fb64a4b1812g.jpg",
     "AI/attachments/img_v3_0211g_80d04199-cf98-43f9-b687-91a13c477a9g.jpg",
